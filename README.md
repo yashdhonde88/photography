@@ -38,7 +38,7 @@ Photography-Sidebar-Menu/
 1. Clone this repository:
 
    ```bash
-   git clone YOUR_GITHUB_REPOSITORY_URL
+   git clone https://github.com/yashdhonde88/photography.git
    ```
 
 2. Open the project folder:
